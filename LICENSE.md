@@ -1,4 +1,4 @@
-# 
+# Enhance Audacity for macOS with instant Audacity for macOS Effect | noise-reduction + lower-thirds, the #1 effect. Includes noise-reduction and lower-thirds for a smoother and
 
 
 
